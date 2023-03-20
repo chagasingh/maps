@@ -1,0 +1,14 @@
+.home {
+  width: 100%;
+  padding: 0rem;
+  margin: 0rem auto;
+  
+}
+.home h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.home button {
+  text-align: center;
+}
